@@ -1,0 +1,10 @@
+C:\Users\baruch\source\repos\bakshtb\dotNet5780_01_2088\part1\part1\bin\Debug\netcoreapp3.0\part1.exe
+C:\Users\baruch\source\repos\bakshtb\dotNet5780_01_2088\part1\part1\bin\Debug\netcoreapp3.0\part1.deps.json
+C:\Users\baruch\source\repos\bakshtb\dotNet5780_01_2088\part1\part1\bin\Debug\netcoreapp3.0\part1.runtimeconfig.json
+C:\Users\baruch\source\repos\bakshtb\dotNet5780_01_2088\part1\part1\bin\Debug\netcoreapp3.0\part1.runtimeconfig.dev.json
+C:\Users\baruch\source\repos\bakshtb\dotNet5780_01_2088\part1\part1\bin\Debug\netcoreapp3.0\part1.dll
+C:\Users\baruch\source\repos\bakshtb\dotNet5780_01_2088\part1\part1\bin\Debug\netcoreapp3.0\part1.pdb
+C:\Users\baruch\source\repos\bakshtb\dotNet5780_01_2088\part1\part1\obj\Debug\netcoreapp3.0\part1.AssemblyInfoInputs.cache
+C:\Users\baruch\source\repos\bakshtb\dotNet5780_01_2088\part1\part1\obj\Debug\netcoreapp3.0\part1.AssemblyInfo.cs
+C:\Users\baruch\source\repos\bakshtb\dotNet5780_01_2088\part1\part1\obj\Debug\netcoreapp3.0\part1.dll
+C:\Users\baruch\source\repos\bakshtb\dotNet5780_01_2088\part1\part1\obj\Debug\netcoreapp3.0\part1.pdb
